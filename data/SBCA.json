@@ -1,9 +1,81 @@
 {
-  "updated_at": "2026-05-07T16:39:06.515812+00:00",
+  "updated_at": "2026-05-07T16:47:49.949500+00:00",
   "airport_icao": "SBCA",
   "airport_name": "Cascavel",
   "source": "AviationStack",
   "arrivals": [
+    {
+      "callsign": "AR8036",
+      "airline": "Aerolineas Argentinas",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-05-07T19:00:00+00:00",
+      "time_iso": "2026-05-07T19:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "QR7267",
+      "airline": "Qatar Airways",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-05-07T19:00:00+00:00",
+      "time_iso": "2026-05-07T19:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AR8030",
+      "airline": "Aerolineas Argentinas",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-05-07T19:00:00+00:00",
+      "time_iso": "2026-05-07T19:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AD5094",
+      "airline": "Azul",
+      "airport": "SBCT",
+      "airport_name": "Curitiba",
+      "scheduled": "2026-05-07T18:40:00+00:00",
+      "time_iso": "2026-05-07T18:40:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "CM3536",
+      "airline": "Copa Airlines",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-05-07T10:35:00+00:00",
+      "time_iso": "2026-05-07T10:43:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "QR5166",
+      "airline": "Qatar Airways",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-05-07T09:10:00+00:00",
+      "time_iso": "2026-05-07T09:11:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "AR8044",
+      "airline": "Aerolineas Argentinas",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-05-07T09:10:00+00:00",
+      "time_iso": "2026-05-07T09:11:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "AD4727",
+      "airline": "Azul",
+      "airport": "SBKP",
+      "airport_name": "Campinas / Viracopos",
+      "scheduled": "2026-05-07T18:25:00+00:00",
+      "time_iso": "2026-05-07T18:25:00+00:00",
+      "status": "programado"
+    },
     {
       "callsign": "LA3401",
       "airline": "LATAM Airlines",
@@ -150,12 +222,12 @@
     },
     {
       "callsign": "AD4586",
-      "airline": "Azul Linhas Aéreas Brasileiras",
+      "airline": "Azul",
       "airport": "SBKP",
       "airport_name": "Campinas / Viracopos",
       "scheduled": "2026-05-07T10:00:00+00:00",
       "time_iso": "2026-05-07T10:05:00+00:00",
-      "status": "actual"
+      "status": "em voo"
     },
     {
       "callsign": "LA3858",
@@ -426,8 +498,8 @@
       "airport": "SBKP",
       "airport_name": "Campinas / Viracopos",
       "scheduled": "2026-05-07T10:40:00+00:00",
-      "time_iso": "2026-05-07T10:40:00+00:00",
-      "status": "em voo"
+      "time_iso": "2026-05-07T10:55:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "LA3859",
