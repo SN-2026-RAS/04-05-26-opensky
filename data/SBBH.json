@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T16:48:30.494118+00:00",
+  "updated_at": "2026-05-08T13:07:08.480712+00:00",
   "airport_icao": "SBBH",
   "airport_name": "Belo Horizonte / Pampulha",
   "source": "AviationStack",
@@ -38,51 +38,6 @@
       "airport_name": "Uberlandia",
       "scheduled": "2026-05-07T10:38:00+00:00",
       "time_iso": "2026-05-07T10:38:00+00:00",
-      "status": "actual"
-    },
-    {
-      "callsign": "?",
-      "airline": "?",
-      "airport": "SBJV",
-      "airport_name": "Joinville",
-      "scheduled": "2026-05-06T19:51:00+00:00",
-      "time_iso": "2026-05-06T19:51:00+00:00",
-      "status": "actual"
-    },
-    {
-      "callsign": "?",
-      "airline": "?",
-      "airport": "SBCG",
-      "airport_name": "Campo Grande",
-      "scheduled": "2026-05-06T20:27:00+00:00",
-      "time_iso": "2026-05-06T20:27:00+00:00",
-      "status": "actual"
-    },
-    {
-      "callsign": "?",
-      "airline": "?",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-05-06T20:37:00+00:00",
-      "time_iso": "2026-05-06T20:37:00+00:00",
-      "status": "actual"
-    },
-    {
-      "callsign": "?",
-      "airline": "?",
-      "airport": "SBRP",
-      "airport_name": "Ribeirao Preto",
-      "scheduled": "2026-05-06T07:36:00+00:00",
-      "time_iso": "2026-05-06T07:36:00+00:00",
-      "status": "actual"
-    },
-    {
-      "callsign": "?",
-      "airline": "?",
-      "airport": "SBSP",
-      "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-05-06T16:45:00+00:00",
-      "time_iso": "2026-05-06T16:45:00+00:00",
       "status": "actual"
     }
   ],
@@ -139,24 +94,6 @@
       "airport_name": "Curitiba",
       "scheduled": "2026-05-07T07:14:00+00:00",
       "time_iso": "2026-05-07T07:14:00+00:00",
-      "status": "actual"
-    },
-    {
-      "callsign": "?",
-      "airline": "?",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-05-06T13:17:00+00:00",
-      "time_iso": "2026-05-06T13:17:00+00:00",
-      "status": "actual"
-    },
-    {
-      "callsign": "?",
-      "airline": "?",
-      "airport": "SBUR",
-      "airport_name": "SBUR",
-      "scheduled": "2026-05-06T07:28:00+00:00",
-      "time_iso": "2026-05-06T07:28:00+00:00",
       "status": "actual"
     }
   ]
