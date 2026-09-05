@@ -1,8 +1,217 @@
 {
-  "updated_at": "2026-09-04T15:22:45.584908+00:00",
+  "updated_at": "2026-09-05T14:10:12.100994+00:00",
   "airport_icao": "SBBV",
   "airport_name": "Boa Vista",
   "source": "AviationStack",
-  "arrivals": [],
-  "departures": []
+  "arrivals": [
+    {
+      "callsign": "AD2943",
+      "airline": "Azul",
+      "airport": "SBEG",
+      "airport_name": "Manaus",
+      "scheduled": "2026-09-05T13:15:00+00:00",
+      "time_iso": "2026-09-05T13:15:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "?",
+      "airline": "empty",
+      "airport": "KFLL",
+      "airport_name": "KFLL",
+      "scheduled": "2026-09-05T00:10:00+00:00",
+      "time_iso": "2026-09-05T00:23:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "JJ3710",
+      "airline": "LATAM Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-04T23:35:00+00:00",
+      "time_iso": "2026-09-04T23:17:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "G31900",
+      "airline": "GOL",
+      "airport": "SBEG",
+      "airport_name": "Manaus",
+      "scheduled": "2026-09-05T01:15:00+00:00",
+      "time_iso": "2026-09-05T00:52:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "AD2795",
+      "airline": "Azul",
+      "airport": "SBKP",
+      "airport_name": "Campinas / Viracopos",
+      "scheduled": "2026-09-05T00:45:00+00:00",
+      "time_iso": "2026-09-05T00:36:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "G31740",
+      "airline": "GOL",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-04T23:50:00+00:00",
+      "time_iso": "2026-09-04T23:31:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "TP5936",
+      "airline": "TAP Air Portugal",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-04T23:50:00+00:00",
+      "time_iso": "2026-09-04T23:31:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "LA3710",
+      "airline": "LATAM Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-04T23:35:00+00:00",
+      "time_iso": "2026-09-04T23:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP5734",
+      "airline": "TAP Air Portugal",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-04T23:35:00+00:00",
+      "time_iso": "2026-09-04T23:17:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "AD2943",
+      "airline": "Azul",
+      "airport": "SBEG",
+      "airport_name": "Manaus",
+      "scheduled": "2026-09-04T13:15:00+00:00",
+      "time_iso": "2026-09-04T13:03:00+00:00",
+      "status": "pousado"
+    }
+  ],
+  "departures": [
+    {
+      "callsign": "AD4013",
+      "airline": "Azul",
+      "airport": "SBEG",
+      "airport_name": "Manaus",
+      "scheduled": "2026-09-05T14:05:00+00:00",
+      "time_iso": "2026-09-05T14:05:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "JJ3711",
+      "airline": "LATAM Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-05T02:35:00+00:00",
+      "time_iso": "2026-09-05T02:36:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "G31741",
+      "airline": "GOL",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-05T03:10:00+00:00",
+      "time_iso": "2026-09-05T03:24:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "TP5937",
+      "airline": "TAP Air Portugal",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-05T03:10:00+00:00",
+      "time_iso": "2026-09-05T03:24:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "LA3711",
+      "airline": "LATAM Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-05T02:35:00+00:00",
+      "time_iso": "2026-09-05T02:35:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "AD2796",
+      "airline": "Azul",
+      "airport": "SBKP",
+      "airport_name": "Campinas / Viracopos",
+      "scheduled": "2026-09-05T01:50:00+00:00",
+      "time_iso": "2026-09-05T02:03:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "G31901",
+      "airline": "GOL",
+      "airport": "SBEG",
+      "airport_name": "Manaus",
+      "scheduled": "2026-09-05T00:35:00+00:00",
+      "time_iso": "2026-09-05T00:30:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "CM3559",
+      "airline": "Copa Airlines",
+      "airport": "SBEG",
+      "airport_name": "Manaus",
+      "scheduled": "2026-09-05T00:35:00+00:00",
+      "time_iso": "2026-09-05T00:30:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "AD4013",
+      "airline": "Azul",
+      "airport": "SBEG",
+      "airport_name": "Manaus",
+      "scheduled": "2026-09-04T14:05:00+00:00",
+      "time_iso": "2026-09-04T14:07:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "JJ3711",
+      "airline": "LATAM Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-04T02:35:00+00:00",
+      "time_iso": "2026-09-04T03:11:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "G31741",
+      "airline": "GOL",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-04T03:00:00+00:00",
+      "time_iso": "2026-09-04T03:00:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "TP5937",
+      "airline": "TAP Air Portugal",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-04T03:00:00+00:00",
+      "time_iso": "2026-09-04T03:00:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "LA3711",
+      "airline": "LATAM Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-04T02:35:00+00:00",
+      "time_iso": "2026-09-04T02:35:00+00:00",
+      "status": "em voo"
+    }
+  ]
 }
